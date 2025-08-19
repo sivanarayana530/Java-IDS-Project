@@ -1,0 +1,1 @@
+Use run_ids.sh to start. Use simulate_scan.sh from attacker VM to generate test traffic.

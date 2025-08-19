@@ -1,0 +1,2 @@
+[ALERT] 2025-08-19T12:34:01+0530 - PortScan - src=10.0.2.15 - scanned_ports=78
+[ALERT] 2025-08-19T12:40:10+0530 - BruteForce - src=10.0.2.15 - attempts=34
